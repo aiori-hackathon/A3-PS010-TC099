@@ -1,0 +1,38 @@
+{
+ "_note": "Curated by the team as a hackathon 'hosting record'. Verify before claiming completeness. AS31173 and AS9009 confirmed; the rest need a bgp.he.net check.",
+ "as_of": "2026-09-29",
+ "hosting": {
+  "AS14061": "DigitalOcean",
+  "AS16276": "OVH",
+  "AS24940": "Hetzner",
+  "AS20473": "Vultr / Constant Company",
+  "AS63949": "Linode / Akamai",
+  "AS16509": "Amazon AWS",
+  "AS14618": "Amazon AWS",
+  "AS15169": "Google",
+  "AS8075": "Microsoft Azure",
+  "AS13335": "Cloudflare",
+  "AS51167": "Contabo",
+  "AS12876": "Scaleway",
+  "AS62240": "Clouvider"
+ },
+ "vpn_providers": {
+  "AS9009": "M247 (backbone for many VPN brands)",
+  "AS212238": "Datacamp Limited (CDN77 / VPN resellers)",
+  "AS60068": "Datacamp Limited",
+  "AS39351": "31173 Services AB (Mullvad)",
+  "AS136787": "Tefincom (NordVPN)",
+  "AS204655": "Tefincom / Nord Security (unverified)",
+  "AS206264": "Datacamp (unverified)",
+  "AS62044": "Proton AG (unverified)",
+  "AS42895": "Proton Services AG (unverified)"
+ },
+ "hosting_keywords": [
+  "hosting",
+  "cloud",
+  "vps",
+  "datacenter",
+  "data center",
+  "servers"
+ ]
+}
