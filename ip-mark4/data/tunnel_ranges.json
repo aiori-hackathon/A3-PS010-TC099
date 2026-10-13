@@ -1,9 +1,0 @@
-{
- "_note": "Published egress/relay ranges of tunnel services. EMPTY ON PURPOSE: add a range only when the provider publishes it, and record source_url + as_of per provider. Do not add shared CDN/cloud edge ranges (Cloudflare, AWS, Google): they cover unrelated customers and would cause false positives. Do not add 100.64.0.0/10 (Tailscale's address space only means something inside a tailnet).",
- "as_of": "2026-10-13",
- "providers": {
-  "ngrok":     {"source_url": "", "as_of": "", "ranges": []},
-  "tailscale-derp": {"source_url": "", "as_of": "", "ranges": []},
-  "zerotier-roots": {"source_url": "", "as_of": "", "ranges": []}
- }
-}

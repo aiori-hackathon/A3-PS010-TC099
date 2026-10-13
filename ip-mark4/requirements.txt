@@ -1,5 +1,0 @@
-streamlit>=1.50
-requests>=2.31
-pandas>=2.0
-scikit-learn>=1.3
-pytest>=8.0   # tests/test_whitelist.py only
